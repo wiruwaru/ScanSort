@@ -1,4 +1,4 @@
-package com.github.wiruwaru.scansort.barcode.util;
+package com.github.wiruwaru.scansort.barcode.output.util;
 
 import com.google.zxing.common.BitMatrix;
 

@@ -1,6 +1,6 @@
 package com.github.wiruwaru.scansort.test;
 
-import com.github.wiruwaru.scansort.barcode.AztecCreator;
+import com.github.wiruwaru.scansort.barcode.output.util.AztecCreator;
 
 public class Test {
 	

@@ -1,4 +1,4 @@
-package com.github.wiruwaru.scansort.barcode;
+package com.github.wiruwaru.scansort.barcode.output.util;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.aztec.AztecWriter;
